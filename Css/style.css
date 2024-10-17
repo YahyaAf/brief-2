@@ -313,3 +313,23 @@ a {
     width: 20%;
     height: 40px;
 }
+/* Page Blog */
+.paragraphe-blog{
+    text-align: center;
+}
+.button-blog{
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #007bff;
+}
+.calefornia{
+    text-align: end;
+    color: #ccd1d1;
+}
+.padding-blog{
+    padding: 15px;
+}
+.margin-button-paragraphe{
+    margin-top: 3rem;
+}
