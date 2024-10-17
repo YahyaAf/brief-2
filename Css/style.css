@@ -239,7 +239,7 @@ input[type="number"]:hover {
     border-radius: 5px; 
     cursor: pointer; 
     transition: background-color 0.3s ease; 
-    margin: 5rem auto; /* Center button horizontally */
+    margin: 5rem auto; 
     display: block; 
     width: fit-content; 
 }
@@ -332,4 +332,77 @@ a {
 }
 .margin-button-paragraphe{
     margin-top: 3rem;
+}
+/* end page blog */
+
+/* add page contact */
+.contact-background{
+    background-color: rgb(15, 1, 38);
+    width: 60%;
+    justify-content: center;
+    margin: 0 auto; 
+    padding: 1rem; 
+    border-radius: 15px;
+    height: 450px;
+}
+.logo-contact{
+    width: 2rem; 
+    height: auto;
+}
+
+.display-block{
+    display: block;
+}
+.taille-hr{
+    width: 20%;
+    height: 5px;
+    background-color: #eaeaea;
+}
+.taille-contact{
+    font-size: 3rem;
+    color: white;
+}
+.paragraphe-color{
+    color: white;
+    padding: 4px;
+}
+.background-form{
+    background-color: white;
+    border-radius: 15px;
+}
+.espace-form{
+    padding: 20px;
+}
+.input-contact{
+    width: 300px; 
+    margin: 10px 0; 
+    padding: 10px; 
+    border-radius: 5px; 
+    border: 1px solid #ccc; 
+    font-size: 16px; 
+}
+
+textarea {
+    height: 150px;
+}
+.padding-div-form{
+    padding: 10px;
+    margin-left: 80px;
+}
+.espace-contact{
+    padding: 20px;
+}
+.espace-bottom{
+    padding-top: 2rem;
+}
+.espace-bottom2{
+    padding-top: 8rem;
+}
+.button-contact{
+    border-radius: 10px;
+    background-color: #007bff;
+    padding: 10px;
+}
+.margin-header{
+    margin-top: 5rem;
 }
