@@ -98,6 +98,7 @@ button {
 
     padding-top: 3rem;
     padding: 5rem;
+    font-size: 1.7rem;
 }
 
 table {
@@ -179,6 +180,7 @@ input[type="number"]:hover {
     text-align: center;
     font-size: 3rem;
     margin-bottom: 3rem;
+    margin-right: 4rem;
 }
 
 .espace-pictures {
@@ -195,6 +197,7 @@ input[type="number"]:hover {
 
 .margin-paragraphe {
     padding: 1.5rem;
+    font-size: 1.7rem;
 }
 
 .dollar {
@@ -338,6 +341,7 @@ a {
 .country-center{
     text-align: center;
     padding: 20px;
+    font-size: 1.5rem;
 }
 .space-beetween{
     gap: 10px;
@@ -346,11 +350,6 @@ a {
 .taille-Recently {
     font-size: 3rem;
 }
-
-.nav-properties {
-    margin-top: 10rem;
-}
-
 .fixer-ProPerties {
     float: right;
     padding-left: 1rem;
@@ -364,6 +363,7 @@ a {
 }
 .fixer-paragraphe{
     padding: 1rem;
+    font-size: 1.3rem;
 }
 .modifier-dollar{
     
@@ -374,6 +374,7 @@ a {
     border-radius: 15px;
     width: 20%;
     height: 40px;
+    font-size: 1.5rem;
 }
 /* Page Blog */
 .paragraphe-blog{
@@ -391,6 +392,7 @@ a {
 }
 .padding-blog{
     padding: 15px;
+    font-size: 1.5rem;
 }
 .margin-button-paragraphe{
     margin-top: 3rem;
@@ -483,15 +485,15 @@ textarea {
     border-radius: 40px;
     
 }
-a:hover {
-    color: #d0e7ff; 
-    transition: background-color 0.3s ease, color 0.3s ease; 
-}
 .container2{
     width: 100%;
     justify-content: space-between;
     margin: 0 auto; 
     padding: 1rem;
     
+}
+.form-container:hover {
+    border-color: #d0e7ff; 
+    box-shadow: 0 2rem 2rem rgba(0, 0, 0, 0.1); 
 }
 
